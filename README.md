@@ -16,7 +16,7 @@
    </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+    <img alt="lua" src="https://img.shields.io/badge/Lua-%23007396.svg?logo=java&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.php.net/">
